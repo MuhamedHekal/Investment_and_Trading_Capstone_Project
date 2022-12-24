@@ -73,6 +73,6 @@ backtest and with a close Sharpe ratio
 A detailed code and analysis can be found in the Jupyter notebook **Stock price predictor & portfolio opt.ipynb** and in the [Report](Report.pdf).  
 
 ### Acknowledgments
-This project is a capstone project of [AWS Machine Learning Engineer Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program.<br>
+This project is a capstone project of [AWS Machine Learning Engineer Nanodegree](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189) program.<br>
 [Machine Learning for Trading course](https://www.udacity.com/course/machine-learning-for-trading--ud501) was helpful for understanding stock market terminology and techniques.
 
