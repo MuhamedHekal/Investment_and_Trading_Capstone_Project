@@ -35,7 +35,7 @@ you can just run this command `pip install -r requirements.txt`
  1. **nasdaq_screener.csv:** This contain the mega and large companies ticker, name and sector used for download the data get from [NASDAQ website](https://www.nasdaq.com/market-activity/stocks/screener)
  2. **Stock price predictor & portfolio opt.ipynb:** This is the jupyter notebook that containing the code.
  3. **Report.pdf** This is the report for this project discuss all steps
- 4.**program script.py** this contain the project functions that can be used throw CLI
+ 4. **program script.py** this contain the project functions that can be used throw CLI
 
 ## Results Summary
 ## Testing
@@ -62,7 +62,7 @@ data types such as using all the features from the dataset such as open, high, l
 ### Max Return
 ![Max_Return](image/Max_return.jpg "Max_Return")
 
-By using the PyPortfolioOpt library to build a diversified portfolio and using the portfolio visualizer site for backtesting the portfolio using the adjusted close price data of 193 tickers for
+By using the [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) library to build a diversified portfolio and using the [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio) site for backtesting the portfolio using the adjusted close price data of 193 tickers for
 mega and large companies from 2016 to 2018 for making a portfolio and backtest this portfolio for 2019, we found
 *   The Max Sharpe ratio portfolio achieved 21% more than expected with the same risk in the
 backtest and with a close Sharpe ratio
@@ -73,6 +73,6 @@ backtest and with a close Sharpe ratio
 A detailed code and analysis can be found in the Jupyter notebook **Stock price predictor & portfolio opt.ipynb** and in the [Report](Report.pdf).  
 
 ### Acknowledgments
-This project is a capstone project of [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program.
+This project is a capstone project of [AWS Machine Learning Engineer Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program.<br>
 [Machine Learning for Trading course](https://www.udacity.com/course/machine-learning-for-trading--ud501) was helpful for understanding stock market terminology and techniques.
 
